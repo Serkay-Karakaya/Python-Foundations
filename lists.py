@@ -14,3 +14,6 @@ numbers = list1 + list2 #tek liste halinde yazar
 print(numbers)
 """
 #-------------------------------------------------
+# [0] ilk değer, [-1] son değer
+# in oparetörü sorgu var-yok
+# del opatörü silme işlemi yapar
